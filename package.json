@@ -1,0 +1,20 @@
+{
+  "name": "ConsumirApi",
+  "version": "1.0.0",
+  "description": "Uso de Fetch ya sea para consumir los datos desde la API o desde un JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sol99/ConsumirApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sol99/ConsumirApi/issues"
+  },
+  "homepage": "https://github.com/Sol99/ConsumirApi#readme"
+}
